@@ -44,5 +44,13 @@ module.exports = {
         'maintainers/semantic-release',
       ]
     },
+    {
+      type: 'category',
+      label: `api.opensauced.pizza`,
+      collapsed: true,
+      items: [
+        'apiOpensaucedPizza/getting-started',
+      ]
+    },
   ],
 };
